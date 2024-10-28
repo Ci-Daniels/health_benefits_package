@@ -1,0 +1,24 @@
+# Python virtual environment
+.venv/
+env/
+.env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment and config files
+*.env
+config.py
+
+# R files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+
+
+
+
